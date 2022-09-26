@@ -69,12 +69,14 @@ try {
 }
 
 //output yang dihasilkan
-// Yoda
-// 20
+/* output
+Yoda
+20
 
-// SyntaxError
-// Unexpected token b in JSON at position 2
+SyntaxError
+Unexpected token b in JSON at position 2
 
-// JSON Error: 'name' is required.
+JSON Error: 'name' is required.
 
-// errorCode is not defined
+errorCode is not defined
+*/
