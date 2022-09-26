@@ -1,4 +1,4 @@
-import { coffeeStock, isCoffeeMachineReady } from './state.js';
+import { coffeeStock as stock, isCoffeeMachineReady } from './state.js';
  
-console.log(coffeeStock);
+console.log(stock);
 console.log(isCoffeeMachineReady);
